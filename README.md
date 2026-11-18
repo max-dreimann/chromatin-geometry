@@ -8,7 +8,7 @@ Python ≥ 3.10 and `pip install -r requirements.txt` (numpy, scipy, pandas, sta
 
 ## Input
 A folder with the STAR files `WT_<n>dimer.star` and `deltaB_<n>dimer.star` and the matching class-average maps
-`*.mrc`. Class and tomogram definitions are in `lib/classes.py`.
+`*.mrc`. Class and tomogram definitions are in `classes.py`.
 
 ## Usage
 Set the input and output folders once (or pass `--star-dir` / `--out-dir` to each script) and run the scripts from the `scripts/` folder in this order:
