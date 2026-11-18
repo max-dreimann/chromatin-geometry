@@ -11,7 +11,7 @@ A folder with the STAR files `WT_<n>dimer.star` and `deltaB_<n>dimer.star` and t
 `*.mrc`. Class and tomogram definitions are in `classes.py`.
 
 ## Usage
-Set the input and output folders once (or pass `--star-dir` / `--out-dir` to each script) and run the scripts from the `scripts/` folder in this order:
+Set the input and output folders once (or pass `--star-dir` / `--out-dir` to each script) and run the numbered scripts 01-09 in order in 
 ```
 export STAR_DIR=/path/to/input
 export OUT_DIR=/path/to/results
